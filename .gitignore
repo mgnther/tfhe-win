@@ -1,0 +1,7 @@
+callgrind.*
+.*.swp
+*.o
+doc
+.idea
+src/cmake-build-debug
+src/libs/lib*
